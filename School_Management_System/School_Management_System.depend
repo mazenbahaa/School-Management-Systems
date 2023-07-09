@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1688893011 source:c:\users\user\documents\embedded c - nti _project\school_management_system\main.c
+	<stdio.h>
+	"Main_Menu.h"
+
+1684984470 c:\users\user\documents\embedded c - nti _project\school_management_system\main.h
+	"STD_TYPES.h"
+	"Student_List.h"
+	"Student_Scores.h"
+	"Config.h"
+
+1684942653 c:\users\user\documents\embedded c - nti _project\school_management_system\std_types.h
+
+1684942503 c:\users\user\documents\embedded c - nti _project\school_management_system\config.h
+
+1688892333 c:\users\user\documents\embedded c - nti _project\school_management_system\student_list.h
+
+1684957957 source:c:\users\user\documents\embedded c - nti _project\school_management_system\student_list.c
+	<stdio.h>
+	<stdlib.h>
+	"STD_TYPES.h"
+	"Config.h"
+	"Student_List.h"
+
+1684984439 c:\users\user\documents\embedded c - nti _project\school_management_system\student_scores.h
+
+1688892953 c:\users\user\documents\embedded c - nti _project\school_management_system\main_menu.h
+
